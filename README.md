@@ -1,7 +1,7 @@
 ASSIGNMENT 1
 
 ### 1.WRITE A JAVA PROGRAM TO PRINT THE SUM,MULTIPLY,SUBTRACT,DIVIDE AND REMAINDER.
-  ````
+  ```
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
@@ -23,7 +23,8 @@ public class Main {
     }
 }
   ```
-OUTPUT:![Screenshot 2023-03-11 105317](https://user-images.githubusercontent.com/127575325/224466653-f4ac95af-1c0f-4568-b6c4-dfc1c6b0973c.png)
+OUTPUT:
+![Screenshot 2023-03-11 105317](https://user-images.githubusercontent.com/127575325/224466653-f4ac95af-1c0f-4568-b6c4-dfc1c6b0973c.png)
 
 
 ### 2. WRITE A JAVA PROGRAM TO COMPARRE TWO NUMBERS
@@ -48,7 +49,8 @@ public class CompareTwoNumbers {
  }
 }
    ```
-OUTPUT:![Screenshot 2023-03-11 093721](https://user-images.githubusercontent.com/127575325/224464045-8b584d36-f6d4-438e-b8ed-bba1db2de68c.png)
+OUTPUT:
+![Screenshot 2023-03-11 093721](https://user-images.githubusercontent.com/127575325/224464045-8b584d36-f6d4-438e-b8ed-bba1db2de68c.png)
 
 ### 3. WRITE A JAVA PROGRAM TO CONVERT A STRING TO AN INTEGER
    ```
@@ -62,7 +64,8 @@ public class Main
     }
 }
    ```
-OUTPUT:![Screenshot 2023-03-11 095143](https://user-images.githubusercontent.com/127575325/224464614-5e3a638c-ce26-40f0-a0f8-9dbf310d7f54.png)
+OUTPUT:
+![Screenshot 2023-03-11 095143](https://user-images.githubusercontent.com/127575325/224464614-5e3a638c-ce26-40f0-a0f8-9dbf310d7f54.png)
 
 ### 4.JAVA PROGRAM TO FIND AREA OF RHOMBUS 
    ```
@@ -77,7 +80,8 @@ public class Main
     }
 }
    ```
-OUTPUT:![photo_2023-03-11_11-02-05](https://user-images.githubusercontent.com/127575325/224466934-5a59c241-cd8a-40b2-b5df-ab17c1dbc41f.jpg)
+OUTPUT:
+![photo_2023-03-11_11-02-05](https://user-images.githubusercontent.com/127575325/224466934-5a59c241-cd8a-40b2-b5df-ab17c1dbc41f.jpg)
 
 
 ### 5.WRITE A JAVA PROGRAM TO FIND THE NUMBER OF DAYS IN A MONTH
@@ -156,7 +160,8 @@ public class Main {
     }
 }
   ```
-OUTPUT:![Screenshot 2023-03-11 105802](https://user-images.githubusercontent.com/127575325/224466849-862361d6-86c1-4442-a3d6-59f572ca6b0f.png)
+OUTPUT:
+![Screenshot 2023-03-11 105802](https://user-images.githubusercontent.com/127575325/224466849-862361d6-86c1-4442-a3d6-59f572ca6b0f.png)
 
 
 
@@ -222,7 +227,8 @@ public class Main {
     }
 }
   ```
-OUTPUT:![Screenshot 2023-03-11 111329](https://user-images.githubusercontent.com/127575325/224467333-0ac59276-2542-437a-b798-5362da2d9c7a.png)
+OUTPUT:
+![Screenshot 2023-03-11 111329](https://user-images.githubusercontent.com/127575325/224467333-0ac59276-2542-437a-b798-5362da2d9c7a.png)
 
 
 
@@ -244,7 +250,8 @@ public class Main {
     }
 }
   ```
-OUTPUT:![Screenshot 2023-03-11 110851](https://user-images.githubusercontent.com/127575325/224467166-4c32ab71-0482-412c-9c9f-fce194c1398f.png)
+OUTPUT:
+![Screenshot 2023-03-11 110851](https://user-images.githubusercontent.com/127575325/224467166-4c32ab71-0482-412c-9c9f-fce194c1398f.png)
 
 
 
